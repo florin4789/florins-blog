@@ -1,0 +1,14 @@
+uuid: 33ea3b62-99e9-4eb8-af41-f359c4f2ca94
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - florinstrambeanu478@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

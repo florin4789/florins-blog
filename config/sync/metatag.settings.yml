@@ -1,0 +1,4 @@
+entity_type_groups:
+  node:
+    blog:
+      open_graph: open_graph

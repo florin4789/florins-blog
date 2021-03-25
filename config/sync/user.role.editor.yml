@@ -1,0 +1,12 @@
+uuid: 7d852d9f-04d2-4fdb-bd83-61ce7c19f213
+langcode: en
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: 3
+is_admin: null
+permissions:
+  - 'create blog content'
+  - 'delete own blog content'
+  - 'use text format basic_html'

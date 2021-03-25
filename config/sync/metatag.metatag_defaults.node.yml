@@ -1,0 +1,14 @@
+uuid: 6c271c2a-541a-4075-8fbb-018f8eb40b41
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rpwvgyEURXLz_JjgMCrkS1rUv-0k3L79BpO-ReN7fDI
+id: node
+label: Content
+tags:
+  canonical_url: '[node:url]'
+  description: '[node:summary]'
+  title: '[node:title] | [site:name]'
+  og_description: 'blogs made by editors'
+  og_title: Blog
